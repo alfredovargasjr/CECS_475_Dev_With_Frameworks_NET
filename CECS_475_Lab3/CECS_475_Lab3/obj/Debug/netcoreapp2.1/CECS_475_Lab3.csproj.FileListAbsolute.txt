@@ -1,0 +1,11 @@
+C:\Users\varga\source\repos\CECS_475_Lab3\CECS_475_Lab3\bin\Debug\netcoreapp2.1\CECS_475_Lab3.deps.json
+C:\Users\varga\source\repos\CECS_475_Lab3\CECS_475_Lab3\bin\Debug\netcoreapp2.1\CECS_475_Lab3.runtimeconfig.json
+C:\Users\varga\source\repos\CECS_475_Lab3\CECS_475_Lab3\bin\Debug\netcoreapp2.1\CECS_475_Lab3.runtimeconfig.dev.json
+C:\Users\varga\source\repos\CECS_475_Lab3\CECS_475_Lab3\bin\Debug\netcoreapp2.1\CECS_475_Lab3.dll
+C:\Users\varga\source\repos\CECS_475_Lab3\CECS_475_Lab3\bin\Debug\netcoreapp2.1\CECS_475_Lab3.pdb
+C:\Users\varga\source\repos\CECS_475_Lab3\CECS_475_Lab3\obj\Debug\netcoreapp2.1\CECS_475_Lab3.csprojAssemblyReference.cache
+C:\Users\varga\source\repos\CECS_475_Lab3\CECS_475_Lab3\obj\Debug\netcoreapp2.1\CECS_475_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\varga\source\repos\CECS_475_Lab3\CECS_475_Lab3\obj\Debug\netcoreapp2.1\CECS_475_Lab3.AssemblyInfoInputs.cache
+C:\Users\varga\source\repos\CECS_475_Lab3\CECS_475_Lab3\obj\Debug\netcoreapp2.1\CECS_475_Lab3.AssemblyInfo.cs
+C:\Users\varga\source\repos\CECS_475_Lab3\CECS_475_Lab3\obj\Debug\netcoreapp2.1\CECS_475_Lab3.dll
+C:\Users\varga\source\repos\CECS_475_Lab3\CECS_475_Lab3\obj\Debug\netcoreapp2.1\CECS_475_Lab3.pdb
